@@ -4,7 +4,7 @@ function add(a, b) {
 
 window.test = {
     constants: {
-        something: 123,
+        something: 321,
         somethingElse: 'abc',
     },
     functions: {
