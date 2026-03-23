@@ -1,0 +1,18 @@
+{
+    "baseValue": 37899,
+    "offsets": {
+        "player_pos": {
+            "x": 108,
+            "y": 117
+        },
+        "FOV": 130
+    },
+    "leader_pos_adr": {
+        "x": 157015,
+        "y": 157010
+    },
+    "camera_pos_adr": {
+        "x": 156996,
+        "y": 156992
+    }
+}
